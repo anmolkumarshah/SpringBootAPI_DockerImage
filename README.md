@@ -1,5 +1,5 @@
 1. Docker file has to be in the root path
-2. it be default runs on 8080
+2. it is default runs on 8080
 3. Docker file name should be Dockerfile only with the first capital D
 4. no need of extension
 5. command to make docker image => docker build -t simple_springboot_api . <= run from the root path i.e. docker run after making the image
